@@ -13,7 +13,7 @@ Remember those days when we dreamt of machines predicting the future? Well, I'm 
 
 ## 💼 Bridging Data and Dreams
 
-During my one year of hands-on experience in the software development industry, I dived into the fascinating world of AI applications. 🤖 Solving real-world problems using data-driven approaches? Count me in! 🎯 Whether it's cracking puzzles, jamming on musical instruments, or diving into captivating books, I thrive on challenges that inspire creativity. 🧩
+During my one year of hands-on experience in the software development industry, I dived into the fascinating world of AI applications. 🤖 Solving real-world problems using data-driven approaches? Count me in! 
 
 ## 🌟 Crafting Insights, One Project at a Time
 
