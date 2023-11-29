@@ -1,7 +1,7 @@
 # Hi, I'm Vignesh Palanisamy! 👋
 
 
-Welcome to my digital corner! I'm a dedicated Data Scientist, passionate about uncovering hidden insights in data. With a Post-Graduation in Data Analytics and a background in Electronics and Communications Engineering, I'm on a mission to make sense of our data-rich world.
+Welcome to my digital corner! I'm a dedicated Data Scientist, passionate about uncovering hidden insights in data. With a Post-Graduation in Data Science and Analytics and a background in Electronics and Communications Engineering, I'm on a mission to make sense of our data-rich world.
 
 Remember those days when we dreamt of machines predicting the future? Well, that dream is now a reality. Computers have evolved independently, simplifying our lives in a magical way. While working in the software development industry, I ventured into the fascinating world of AI applications. Solving real-world problems with data-driven approaches? I'm all in!
 
